@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="US-en">
+<head>
+<link rel="stylesheet"  href="indexstylesheet.css">
+<link href="https://fonts.googleapis.com/css2?family=Pacifico&display=swap" rel="stylesheet">
+<meta name='viewport' content = "width=device-width, intial-scale = 1.0">
+<title> Afro Essence </title>
+</head>
+<body class="bg">
+<div class = "indextitle">
+<a href=Afro_Essence_Main_Page.html>Afro Essence</a>
+</div>
+</body>
+</html>
