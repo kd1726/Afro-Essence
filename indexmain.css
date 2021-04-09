@@ -1,0 +1,201 @@
+html{
+background-color:black;
+}
+h1{
+font-family: 'Pacifico', cursive;
+color:gold;
+text-align:center;
+font-size:5vw;
+}
+
+nav{
+width:100%;
+position:relative;
+left: 5vw;
+}
+a:link{
+display:inline;
+color: black;
+font-family: 'Pacifico', cursive;
+font-size:3vw;
+border:10px solid gold;
+border-radius: 2vw;
+background-color: gold;
+text-decoration:none;
+}
+.at1{
+transition:0s;
+margin:2.5vw;
+}
+.at2{
+transition:0s;
+margin:2.5vw;
+}
+.at3{
+transition:0s;
+margin:2.5vw;
+}
+a:hover {
+display:inline;
+color: black;
+font-family: 'Pacifico', cursive;
+font-size:2.5vw;
+margin:0px;
+border:10px solid #e5c100;
+border-radius: 2vw;
+background-color: #e5c100;
+text-decoration:none;
+}
+a:visited{
+display:inline;
+color: black;
+font-family: 'Pacifico', cursive;
+font-size:2.5vw;
+margin:9%;
+border:10px solid gold;
+border-radius: 2vw;
+background-color: gold;
+text-decoration:none;
+}
+h2{
+color:gold;
+font-family:'Caveat', cursive;
+font-size:3vw;
+text-align: center;
+}
+
+h3{
+font-size:2vw;
+color:gold;
+text-decoration:none;
+font-family: 'Caveat', cursive;
+text-align: center;
+}
+
+.asideformat{
+float:left;
+width:40%;
+height:60%px;
+overflow:hidden;
+}
+
+.sectionformat{
+float:right;
+overflow:visible;
+position:relative;
+top:-3vw;
+width:55%;
+height:55%;
+}
+
+p{
+font-family: 'Handlee', cursive;
+font-size: 1.3vw;
+color:gold;
+text-align:justify;
+}
+.firstimage{
+left: -1vw;
+position:relative;
+width:50%;
+height:50%;
+}
+.first1image{
+left: 20vw;
+top: -31vw;
+position:relative;
+width:50%;
+height:50%;
+}
+
+.asideformat1{
+float:left;
+width:40%;
+positon:relative;
+top:10px;
+left:-20px;
+overflow:hidden;
+border: 2px solid black;
+background-size:cover;
+}
+.secondimage{
+top:-13vw;
+position:relative;
+width:50%;
+height:50%;
+}
+.second2image{
+left: 20vw;
+top: -43.3vw;
+position:relative;
+width:50%;
+height:50%;
+}
+
+.sectionformat1{
+float:right;
+top:15vw;
+overflow:visible;
+position:relative;
+width:55%;
+}
+
+.thirdimage{
+top:-26vw;
+position:relative;
+width:50%;
+height:50%;
+}
+
+.third3image{
+left: 20vw;
+top: -56.4vw;
+position:relative;
+width:50%;
+height:50%;
+}
+
+.sectionformat2{
+float:right;
+top:27vw;
+position:relative;
+width:55%;
+}
+.specialfeature3{
+float:right;
+top:40vw;
+position:relative;
+width:55%;
+}
+.specialfeatureimg{
+float:left;
+position:relative;
+top: -40vw;
+width: 100%;
+height:50%;
+}
+p.specialfeature{
+font-family: 'Dancing Script', cursive;
+}
+h3.specialfeature{
+font-family: 'Dancing Script', cursive;
+float:center;
+position:relative;
+text-align:center;
+}
+h4{
+font-family: 'Dancing Script', cursive;
+float:center;
+position:relative;
+color:gold;
+text-align:center;
+font-size: 1.5vw;
+}
+
+pre{
+color:gold;
+float:center;
+position:relative;
+font-size: 2vw;
+font-family: 'Dancing Script', cursive;
+}

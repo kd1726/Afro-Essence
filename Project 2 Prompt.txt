@@ -1,0 +1,3 @@
+Project 2 will  be a continuation of Project 1. IN addition to what you have already done,
+you will use the following new topic from https://www.w3schools.com/html/html_basic.asp :
+Block & Inline -  HTML forms. Make the website and pages look prettier and more engaging. You must use ALL of what you learned. Feel free to use the internet for help since you deleted your notes.
